@@ -61,9 +61,9 @@ This version has been optimized to handle Instagram's recent anti-scraping restr
   ```bash
   pip install instaloader pandas openpyxl
   
-👨‍💻 Research Motivation
+## 👨‍💻 Research Motivation
 This project was originally developed as part of an AI/NLP data collection experiment, focusing on large-scale semantic understanding of social media content. The collected dataset will be used for academic research and AI-driven analytical model development.
 
-🔒 Legal Disclaimer
+## 🔒 Legal Disclaimer
 This project is strictly for academic and non-commercial use, and must comply with Instagram's Terms of Service and applicable local laws.
 Users are responsible for assessing and bearing any risks associated with the scraping process.
